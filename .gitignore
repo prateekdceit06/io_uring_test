@@ -53,3 +53,10 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# binaries
+client
+server
+sync_client
+sync_server
+*.bin
